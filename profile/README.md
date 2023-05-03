@@ -1,4 +1,4 @@
-![dart-on-windows-card](https://user-images.githubusercontent.com/2319867/235838660-a82bfdce-aa55-461d-b418-19bd5185b6af.png)
+<img src="https://user-images.githubusercontent.com/2319867/235838660-a82bfdce-aa55-461d-b418-19bd5185b6af.png" width="33%" height="33%">
 
 A suite of packages to support Windows development with Dart.
 
