@@ -79,7 +79,7 @@ jobs:
 
       - name: 📡 Upload Code Coverage Reports to Codecov
         if: ${{ inputs.upload_coverage }}
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v4
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
         with:
