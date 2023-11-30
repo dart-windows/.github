@@ -1,17 +1,20 @@
-<img src="https://user-images.githubusercontent.com/2319867/235838660-a82bfdce-aa55-461d-b418-19bd5185b6af.png" width="50%" height="50%">
+[![Dart | Windows][dart_windows_card]][win32_pub_link]
 
 A suite of packages to support Windows development with Dart.
 
-Packages include [win32], a projection of standard Win32 and COM APIs;
-an [idiomatic Dart projection of the modern WinRT APIs][dartwinrt]; and a number
-of higher-level packages that provide APIs for common hardware and system
-capabilities such as the Windows registry, file picker, and gamepads.
+Packages include [win32][win32_link], a projection of standard Win32 and
+COM APIs;
+an [idiomatic Dart projection of the modern WinRT APIs][dartwinrt_link];
+and various higher-level packages offering APIs for widespread hardware and
+system features, like the Windows Clipboard, Windows Registry, file picker,
+and gamepads.
 
-General documentation can be found at [win32.pub].
+General documentation can be found at [win32.pub][win32_pub_link].
 
 All packages are licensed permissively under the BSD-3 license and welcome
 contributions with tests.
 
-[dartwinrt]: https://github.com/dart-windows/dartwinrt
-[win32]: https://github.com/dart-windows/win32
-[win32.pub]: https://win32.pub
+[dart_windows_card]: https://raw.githubusercontent.com/dart-windows/.github/main/assets/dart-windows-card-480x240.png
+[dartwinrt_link]: https://github.com/dart-windows/dartwinrt
+[win32_link]: https://github.com/dart-windows/win32
+[win32_pub_link]: https://win32.pub
